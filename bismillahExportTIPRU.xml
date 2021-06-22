@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdtprojectproperties>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.IncludePaths">
+<language name="C Source File">
+<includepath>C:\Users\bushr\Downloads\pru-software-support-package-5.8.0\pru-software-support-package-5.8.0\include\am335x</includepath>
+<includepath>C:\Users\bushr\Downloads\pru-software-support-package-5.8.0\pru-software-support-package-5.8.0\examples\am335x\PRU_gpioToggle</includepath>
+<includepath>C:\ti\pru\include</includepath>
+<includepath>C:\ti\ccs1031\ccs\ccs_base\pru\include</includepath>
+<includepath>C:\ti\ccs1031\ccs\tools\compiler\ti-cgt-pru_2.3.3\include</includepath>
+
+</language>
+<language name="C++ Source File">
+<includepath>C:\Users\bushr\Downloads\pru-software-support-package-5.8.0\pru-software-support-package-5.8.0\include\am335x</includepath>
+<includepath>C:\Users\bushr\Downloads\pru-software-support-package-5.8.0\pru-software-support-package-5.8.0\examples\am335x\PRU_gpioToggle</includepath>
+<includepath>C:\ti\pru\include</includepath>
+<includepath>C:\ti\ccs1031\ccs\ccs_base\pru\include</includepath>
+<includepath>C:\ti\ccs1031\ccs\tools\compiler\ti-cgt-pru_2.3.3\include</includepath>
+
+</language>
+<language name="Assembly Source File">
+<includepath>C:\Users\bushr\Downloads\pru-software-support-package-5.8.0\pru-software-support-package-5.8.0\include\am335x</includepath>
+<includepath>C:\Users\bushr\Downloads\pru-software-support-package-5.8.0\pru-software-support-package-5.8.0\examples\am335x\PRU_gpioToggle</includepath>
+<includepath>C:\ti\pru\include</includepath>
+<includepath>C:\ti\ccs1031\ccs\ccs_base\pru\include</includepath>
+<includepath>C:\ti\ccs1031\ccs\tools\compiler\ti-cgt-pru_2.3.3\include</includepath>
+
+</language>
+<language name="Assembly Source File">
+<includepath>C:\Users\bushr\Downloads\pru-software-support-package-5.8.0\pru-software-support-package-5.8.0\include\am335x</includepath>
+<includepath>C:\Users\bushr\Downloads\pru-software-support-package-5.8.0\pru-software-support-package-5.8.0\examples\am335x\PRU_gpioToggle</includepath>
+<includepath>C:\ti\pru\include</includepath>
+<includepath>C:\ti\ccs1031\ccs\ccs_base\pru\include</includepath>
+<includepath>C:\ti\ccs1031\ccs\tools\compiler\ti-cgt-pru_2.3.3\include</includepath>
+
+</language>
+<language name="Linker Command File">
+
+</language>
+<language name="Linker Command File">
+
+</language>
+<language name="Linker Command File">
+
+</language>
+</section>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.Macros">
+<language name="C Source File">
+<macro>
+<name>am3359</name><value/>
+</macro>
+<macro>
+<name>pru0</name><value/>
+</macro>
+
+</language>
+<language name="C++ Source File">
+<macro>
+<name>am3359</name><value/>
+</macro>
+<macro>
+<name>pru0</name><value/>
+</macro>
+
+</language>
+<language name="Assembly Source File">
+<macro>
+<name>am3359</name><value/>
+</macro>
+<macro>
+<name>pru0</name><value/>
+</macro>
+
+</language>
+<language name="Assembly Source File">
+<macro>
+<name>am3359</name><value/>
+</macro>
+<macro>
+<name>pru0</name><value/>
+</macro>
+
+</language>
+<language name="Linker Command File">
+
+</language>
+<language name="Linker Command File">
+
+</language>
+<language name="Linker Command File">
+
+</language>
+</section>
+</cdtprojectproperties>
